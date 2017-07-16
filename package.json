@@ -1,0 +1,28 @@
+{
+  "name": "gulp-getstyle",
+  "version": "1.0.0",
+  "description": "a gulp plug for get style from html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gulpplugin",
+    "getstyle",
+    "bundle"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.3"
+ 
+  },
+    "devDependencies": {
+    "chai": "~2.2.0",
+    "gulp": "~3.8.11",
+    "event-stream": "~3.3.0",
+    "mocha": "~2.2.1",
+    "chai": "~2.2.0"
+  },
+  "author": "a.wang",
+  "license": "ISC"
+}
