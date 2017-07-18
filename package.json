@@ -1,5 +1,5 @@
 {
-  "name": "gulp-getstyle",
+  "name": "gulp-tagcontents",
   "version": "1.0.0",
   "description": "a gulp plug for get style from html file",
   "main": "index.js",
@@ -11,6 +11,10 @@
     "getstyle",
     "bundle"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:beierweiwei/gulp-tagcontents.git"
+  },
   "dependencies": {
     "gulp-util": "^3.0.6",
     "through2": "^2.0.3"
